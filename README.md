@@ -19,7 +19,10 @@ Turning raw cloud data into insights ☁️📊 | Strong data architecture solve
 
 ---
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjukumar10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shawkumarsanju5@gmail.com) 
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjukumar10)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shawkumarsanju5@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanju_Kumar10/)
+
 
 # 💻 Tech Stack:
 
