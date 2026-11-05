@@ -1,21 +1,9 @@
 # 💫 About Me:
-🔭 **Currently Working On**  
-Cloud-based Data Engineering on **Microsoft Azure** | ETL/ELT pipelines using **Azure Synapse, Fabric & Databricks** | **Power BI** analytics & BI dashboards | ML workflows on cloud data platforms  
+I am passionate about Data Analytics and Business Intelligence, with a strong interest in transforming raw data into meaningful insights that drive informed business decisions. Currently, I am working on developing my expertise in SQL-based data analysis, Python, Microsoft Power BI, DAX, Power Query, data cleaning, transformation, exploratory data analysis (EDA), and interactive dashboard development. I enjoy exploring datasets, identifying trends and patterns, tracking business KPIs, and translating complex data into actionable insights.
 
-👯 **Looking to Collaborate On**  
-Data Science & Big Data Analytics | Azure Cloud Data Engineering | Lakehouse & Data Warehousing | Research projects in Data & AI  
+I am always eager to collaborate on Data Analytics, Business Intelligence, data visualization, and real-world analytical projects. I am continuously expanding my knowledge of advanced SQL, Python libraries such as Pandas and NumPy, statistical analysis, predictive analytics, Microsoft Fabric, and cloud-based analytics solutions. I am also interested in learning advanced DAX techniques, query optimization, data modeling, and best practices for building scalable analytical solutions.
 
-🤝 **Looking for Help With**  
-Advanced ML deployment on Azure | Big data pipeline optimization & performance tuning | Real-world cloud architecture best practices  
-
-🌱 **Currently Learning**  
-Advanced Azure Data Services (Synapse, Fabric, Databricks) | ML & MLOps | Cloud-native analytics architectures | Scalable data pipeline design patterns  
-
-💬 **Ask Me About**  
-Data Science & Big Data Analytics | Azure Cloud Data Engineering | PostgreSQL & MongoDB | Power BI insights | Python & R for data analysis  
-
-⚡ **Fun Fact**  
-Turning raw cloud data into insights ☁️📊 | Strong data architecture solves half the problem 🚀  
+Feel free to connect with me to discuss SQL, Python, Power BI, Excel, data visualization, business intelligence, and analytics-driven problem-solving. I enjoy turning raw datasets into meaningful stories and believe that the right insights can transform numbers into smarter business decisions. 📊🚀 
 
 ---
 
